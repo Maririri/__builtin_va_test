@@ -1,0 +1,3 @@
+ToolSet: 2.6.0@C:\Toolchains\cygwin2.6
+Options: 
+CMake: 3.8.1@C:\Builds\CLion 172.2289 compiler-info\bin\cmake_cygwin\bin\cmake.exe

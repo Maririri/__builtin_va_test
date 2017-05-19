@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Projects/ClionProjects/VA__builtin/clang-tidy-cyrillic.cpp
+iostream
+-
+string
+-
+
+/cygdrive/e/Projects/ClionProjects/VA__builtin/main.cpp
+iostream
+-
+cstdarg
+-
+
